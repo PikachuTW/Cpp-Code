@@ -32,4 +32,5 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		cout << t[i][0] << " " << t[i][1] << endl;
 	}
+	return 0;
 }
